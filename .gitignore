@@ -1,0 +1,12 @@
+# Ignore build output
+build/
+dist/
+pychemist.egg-info/
+quarto/
+
+#Ignore notes
+notes/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
