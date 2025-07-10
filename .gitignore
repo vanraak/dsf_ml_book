@@ -3,6 +3,7 @@ build/
 dist/
 pychemist.egg-info/
 quarto/
+images/images/
 
 #Ignore notes
 notes/
